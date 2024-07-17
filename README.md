@@ -10,3 +10,5 @@ Create a test EC2 instance inside this VPC which will have private access only a
 ![](https://github.com/Visemir/homework16/blob/main/awsinstance.jpg)
 
 Destroy all the resources
+
+![](https://github.com/Visemir/homework16/blob/main/destroy.jpg)
